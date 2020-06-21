@@ -1,2 +1,2 @@
 # hello-world
-another repository
+I'm a green hand, I just want to improve myself and make some interesting friends.
