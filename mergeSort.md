@@ -1,5 +1,3 @@
-# algorithm_-
-another repository
 ## mergeSort implement
 ```c++
 int *assist = new int[100];
